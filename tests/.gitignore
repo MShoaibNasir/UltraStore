@@ -1,0 +1,5 @@
+# Ignore the vendor directory
+  /vendor
+# Ignore Node.js dependencies
+node_modules/
+C:\xampp 7.4\htdocs\perfume_to_go\tests\.gitignore
